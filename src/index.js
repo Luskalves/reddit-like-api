@@ -7,6 +7,10 @@ const app = express();
 
 app.use(express.json());
 
+app.get('/', (_req, res) => {
+  res.send('entrou')
+})
+
 app.use('/users', userRoute);
 
 app.use(errorMiddleware);
