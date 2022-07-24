@@ -1,5 +1,5 @@
 FROM node:alpine
 WORKDIR /app
-COPY . /app/
+COPY . .
 RUN npm i
 CMD npm start
