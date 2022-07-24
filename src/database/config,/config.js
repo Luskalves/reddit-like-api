@@ -9,7 +9,7 @@ const config = {
   host: env.DB_HOST || "127.0.0.1",
   dialect: env.DB_DIALECT || "mysql",
   port: env.DB_PORT || "3306",
-  config: env.DB_CONFIG || {},
+  dialectOptions: env.DB_CONFIG || {},
 }
 
 module.exports = {
