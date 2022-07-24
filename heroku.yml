@@ -2,5 +2,5 @@ build:
   docker:
     web: Dockerfile
 
-web:
-  run: node src/index.js  
+run:
+  web: node src/index.js  
