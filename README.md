@@ -19,6 +19,6 @@
  
   - Clone o repositório.
   - Faça o ```npm install``` para instalar as dependências.
-  - Será necessário condigurar as variáveis de ambiente que são utilizadas pelo ```DotEnv``` ou configura-las localmente dentro das pastas ```./src/database/config``` no arquivo ```config.js``` para a conecção com o banco de dados ser feita.
+  - Será necessário criar um arquivo ```.env``` e configurar as variáveis de ambiente ou configura-las localmente dentro da pasta ```./src/database/config``` no arquivo ```config.js``` e alterar as variáveis para com as do seu ambiente local para a conecção com o banco de dados ser feita.
   - Agora apenas dê um ```npm start``` para rodar a aplicação
   - Faça uso de algum software ou extenção do vscode para consumo de API's para conseguir acessar as rotas 
