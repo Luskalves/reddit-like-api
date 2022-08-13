@@ -1,3 +1,5 @@
+# 🚧 README em construção 🚧
+
 # reddit-like-api
 
 ## Contexto: 
