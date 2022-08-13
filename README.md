@@ -9,7 +9,7 @@
  ## Estado atual da aplicação:
  Por enquanto é apenas possível apenas listar os usuários e criar novos.
  
- ## Atualiações futuras
+ ## Atualizações futuras
  - Reescrever o código em ```TypeScript```
  - Adcionar rota de login
  - Adcionar rota de posts 
